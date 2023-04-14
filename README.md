@@ -1,6 +1,9 @@
 
+__________________________________
 
+![AnonymousNism](https://avatars.githubusercontent.com/u/130356338?s=96&v=4) 
 
+__________________________________
 
 <p align="center">A beginners friendly, Automated Basic Tool.</p>
 
@@ -16,16 +19,16 @@
 
 - Just, Clone this repository -
 ```
-$ git clone https://github.com/SiddhantOffl/cam-virus.git
+$ git clone https://github.com/Anonymousnism/anonvirus.git
 ```
 
-- Change to cloned directory and run `cam_virus.sh` -
+- Change to cloned directory and run `anon-virus.sh` -
 ```
 $ cd basic
-$ bash cam_virus.sh
+$ bash anon-virus.sh
 ```
 
-- On first launch, It'll install the dependencies and that's it. `cam_virus.sh` is installed.
+- On first launch, It'll install the dependencies and that's it. `anon-virus.sh` is installed.
 
 
 
